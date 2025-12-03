@@ -56,12 +56,18 @@ These explainers emphasize:
 
 ---
 
-## Contact & Next Steps
+## Contact, Resume & Next Steps
+
+📧 ** Email **: contact@jmmultiservices.xyz
+
+📄 ** [View My Resume](RESUME.md)** | **[Download PDF](Jorge-Mora-Technical-Writer-Resume.pdf)**
 
 Interested in discussing these topics further? Feel free to reach out:
-- GitHub: https://github.com/JMORAF87/FriendliAi-Portfolio
-- LinkedIn: www.linkedin.com/in/jorgemoraf87
-- Email: contact@jmmultiservices.xyz
+
+**GitHub: https://github.com/JMORAF87/FriendliAi-Portfolio
+
+**LinkedIn**: [linkedin.com/in/jorgemoraf87](https://linkedin.com/in/jorgemoraf87)
+
 
 ---
 
